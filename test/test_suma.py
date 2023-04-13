@@ -1,9 +1,7 @@
 import unittest
-import sys
- 
-# setting path
-sys.path.append('..')
 
+import sys
+sys.path.append('./')
 
 from funciones import es_par
 
